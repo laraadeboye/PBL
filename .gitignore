@@ -31,3 +31,6 @@ override.tf.json
 terraform.rcterraform-env/
 
 terraform-env/
+
+#Ignore IDE
+.cursor
